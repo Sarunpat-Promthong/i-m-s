@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "ไม่พบหนังสือ",
+  "bookDeletedSuccessfully": "ลบหนังสือเรียบร้อยแล้ว",
+  "bookUpdatedSuccessfully": "อัปเดตหนังสือเรียบร้อยแล้ว",
+  "bookNameRequired": "กรุณากรอกชื่อหนังสือ",
+  "bookNameLenghtValidation": "ชื่อหนังสือต้องมีความยาวระหว่าง 5 ถึง 200 ตัวอักษร",
+  "countInStockRequired": "กรุณากรอกจำนวนสินค้าในสต็อก",
+  "countInStockRangeValidation": "จำนวนสินค้าในสต็อกต้องอยู่ระหว่าง 1 ถึง 255",
+  "priceRequired": "กรุณากรอกราคา",
+  "priceRangeValidation": "ราคาต้องอยู่ระหว่าง 1 ถึง 10000 ดอลลาร์",
+  "imageRequired": "กรุณากรอก URL รูปภาพ",
+  "imageUrlValidation": "รูปภาพต้องเป็น URL ที่ถูกต้อง",
+  "bookIDValidation": "รหัสหนังสือต้องเป็น MongoDB ObjectId ที่ถูกต้อง"
+}

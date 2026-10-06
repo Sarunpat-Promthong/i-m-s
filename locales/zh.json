@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "未找到该书籍",
+  "bookDeletedSuccessfully": "书籍删除成功",
+  "bookUpdatedSuccessfully": "书籍更新成功",
+  "bookNameRequired": "书名为必填项",
+  "bookNameLenghtValidation": "书名长度必须在 5 到 200 个字符之间",
+  "countInStockRequired": "库存数量为必填项",
+  "countInStockRangeValidation": "库存数量必须在 1 到 255 之间",
+  "priceRequired": "价格为必填项",
+  "priceRangeValidation": "价格必须在 1 到 10000 美元之间",
+  "imageRequired": "图片 URL 为必填项",
+  "imageUrlValidation": "图片必须是有效的 URL",
+  "bookIDValidation": "书籍 ID 必须是有效的 MongoDB ObjectId"
+}

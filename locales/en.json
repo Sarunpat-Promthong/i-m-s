@@ -1,0 +1,14 @@
+{
+  "bookNotFound": "Book Not found",
+  "bookDeletedSuccessfully": "Book Deleted Successfully",
+  "bookUpdatedSuccessfully": "Book Updated Successfully",
+  "bookNameRequired": "Book name is required",
+  "bookNameLenghtValidation": "Book name must be between 5 and 200 characters",
+  "countInStockRequired": "Stock count is required",
+  "countInStockRangeValidation": "Stock count must be between 1 and 255.",
+  "priceRequired": "Price is required",
+  "priceRangeValidation": "Price must be between 1 and 10000$",
+  "imageRequired": "Image URL is required",
+  "imageUrlValidation": "Image must be a valid URL",
+  "bookIDValidation": "Book ID Must be a valid MongoDB ObjectId"
+}
